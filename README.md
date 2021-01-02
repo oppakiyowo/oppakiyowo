@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+
+
+
+
+I'm a Writer of codes, blogs and things that live on the web. An easily inspired inspirational individual with a strong predilection towards most things nerdy and movie addict.Doing experiment to find what is the best,understand someone perspective, solve very small problems day by day. Make more crazy magic happen.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oppakiyowo&layout=compact&count_private=true)
+
+![edolorenza's github stats](https://github-readme-stats.vercel.app/api?username=oppakiyowo&show_icons=true&count_private=true)
 <!--
-**oppakiyowo/oppakiyowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edolorenza/edolorenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
